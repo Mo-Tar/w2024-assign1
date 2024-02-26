@@ -1,6 +1,8 @@
 # COMP 4513 (Winter 2024)
 ### Assignment #1: Node, SQL (via supabase)
 
+URL: https://cuddly-teal-xenon.glitch.me
+
 https://cuddly-teal-xenon.glitch.me/api/seasons <br>
 https://cuddly-teal-xenon.glitch.me/api/seasons <br>
 https://cuddly-teal-xenon.glitch.me/api/circuits <br>
