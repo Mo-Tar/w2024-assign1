@@ -4,7 +4,6 @@
 URL: https://cuddly-teal-xenon.glitch.me
 
 https://cuddly-teal-xenon.glitch.me/api/seasons <br>
-https://cuddly-teal-xenon.glitch.me/api/seasons <br>
 https://cuddly-teal-xenon.glitch.me/api/circuits <br>
 https://cuddly-teal-xenon.glitch.me/api/circuits/monza <br>
 https://cuddly-teal-xenon.glitch.me/api/circuits/calgary <br>
